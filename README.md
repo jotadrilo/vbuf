@@ -1,2 +1,2 @@
-# vbuf
-VBUF static files
+# VBUF
+Static files repository for the 'VBUF' blog.
