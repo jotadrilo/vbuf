@@ -23,6 +23,8 @@ env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
+before_deploy:
+  - rm -rf docker deployed* .travis.yml .bundle .gitignore README.md _posts
 deploy:
   provider: pages
   skip_cleanup: true
