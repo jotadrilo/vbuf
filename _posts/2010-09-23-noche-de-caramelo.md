@@ -1,0 +1,11 @@
+---
+title: "Noche de caramelo.."
+layout: "post"
+date: "2010-09-23 23:31:00"
+categories: 
+author: jotadrilo
+---
+
+<div class="css-full-post-content js-full-post-content">
+[...]<br /><br />...las mejores "batallitas" comienzan bajo la luz de una lámpara, se extienden bajo el placer de un camino bajo la luna y nunca acaban, gracias al calor de una llama que las aviva.<br /><br />Todo comienza con un "Riiiinng!" [...] y sé que no podré despedirme nunca jamás... Aquí empieza mi historia:<br /><br />Un camino de vuelta, y una luna que me va hablando. Me quiere convencer de lo que mi corazón siente, y mi cerebro teme. Cada paso adelante es un paso atrás. Nos pasa muchas veces, pero pocas nos damos la vuelta. ¿Miedo? Solo se que hoy es una noche de caramelo, aunque el placer lo llevo por dentro. Me baja por la garganta y me llega hasta el alma, dulce, delicado, pero quema.<br /><br />Es como una llama, crece por dentro, sin saber quien la aviva pero que reconforta, te sientes vivo: tengo calor, y muchas ganas de darlo a quien lo quiera.<br /><br />Siento el calor del contacto, de las miradas, de las palabras... Siento como mi cuerpo entero me habla, quiere que me suelte, que me abra y deje escribir a esa bomba roja que tengo dentro, apunto de explotar, sin manos, sin letras, con eso que nos gusta tanto: con sentimiento, y sin adornos.<br /><br />No siento latidos, esta noche no son ellos quienes me mantienen vivo. Ahí dentro solo siento deseo, deseo por decir lo que siento, sin pensar, sin pensar que nunca he sido capaz de hacerlo; ganas de vivir, ganas de vivir un sueño que me haga feliz. <br /><br />Aún recuerdo cada cruzar de miradas, imposible de explicar. Es de esas veces cuando se detiene el tiempo, cuando eres capaz de volar y sentir la realidad.<br />Pero no es recordar, sino sentir. Siento cada curva, cada palabra, cada gesto que me hace latir todo entero, no al ritmo del corazón, ni del tic-tac de un reloj.<br /><br />De tanto mirar se me queman los ojos, de tanto sentir se me atrofian los sentidos, de tanto escribir se me olvidan las ideas... de tanto pensar, no se qué decir. La lengua se me la comió el gato, tengo que buscarlo.<br /><br />Cuando tienes días amargos, no hay nada mejor como una dulce mirada, sabor a caramelo, y una noche con lágrimas de alegría cayendo por dentro.
+</div>
