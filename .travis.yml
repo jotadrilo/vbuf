@@ -27,6 +27,8 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
+  email: jdrios@gmail.com
+  name: travis-bot
   target_branch: gh-pages
   on:
     branch: master
