@@ -19,3 +19,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - docker
+  - README.md
