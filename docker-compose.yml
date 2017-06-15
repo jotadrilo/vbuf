@@ -2,18 +2,18 @@ version: '2'
 
 services:
   bundle:
-    image: pages
+    image: vbuf:latest
     entrypoint: bundle
     command: install
     volumes:
       - ./vendor:/vendor
   vbuf:
-    image: vbuf
+    image: vbuf:latest
     entrypoint: jekyll
     command: serve --host 0.0.0.0 --incremental
     ports:
       - 4000:4000
     volumes:
-      - ./src:/src
+      - .:/src
     volumes_from:
       - bundle:ro
