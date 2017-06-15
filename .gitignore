@@ -1,2 +1,7 @@
-# Ignore ruby files
+# Jekyll files
+.jekyll-metadata
+.sass-cache/
+_site
+
+# Ruby files
 vendor/bundle
