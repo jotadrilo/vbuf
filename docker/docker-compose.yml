@@ -6,7 +6,7 @@ services:
     entrypoint: bundle
     command: install
     volumes:
-      - ./vendor:/vendor
+      - ../vendor:/vendor
   vbuf:
     image: vbuf:latest
     entrypoint: jekyll
@@ -14,6 +14,6 @@ services:
     ports:
       - 4000:4000
     volumes:
-      - .:/src
+      - ..:/src
     volumes_from:
       - bundle:ro
