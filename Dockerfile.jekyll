@@ -1,6 +1,9 @@
 FROM ruby:2.3
 
 RUN gem install jekyll
+RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
+    apt-get install -y --no-install-recommends nodejs && \
+    rm -r /var/lib/apt/lists /var/cache/apt/archives
 
 EXPOSE 4000
 
