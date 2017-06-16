@@ -26,7 +26,7 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 before_deploy:
-  - rm -rf _posts docker vendor README.md .travis.yml .bundle .gitignore
+  - rm -rf _posts docker vendor README.md .travis.yml .bundle .gitignore .sass-cache
 deploy:
   provider: pages
   skip_cleanup: true
