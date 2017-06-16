@@ -27,7 +27,7 @@ env:
 
 before_deploy:
   - rm -rf _posts docker vendor README.md .travis.yml .bundle .gitignore
-  - sed -i 's#url:.*#url: "https://jotadrilo.github.io"#g' _config.yml
+  - sed -i 's#^url:.*#url: "https://jotadrilo.github.io"#g' _config.yml
 deploy:
   provider: pages
   skip_cleanup: true
