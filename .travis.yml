@@ -9,7 +9,8 @@ install:
 script:
   - bundle install --path vendor/bundle
   - bundle exec jekyll build
-  - ln -sf . _site/vbuf # Hack to prevent errors with Jekyll baseurl
+  - sed -i 's#^url:.*#url: ""#g' _config.yml # Hacks while testing
+  - ln -sf . _site/vbuf
   - htmlproofer ./_site
   - rm _site/vbuf
 
