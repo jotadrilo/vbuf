@@ -1,0 +1,11 @@
+---
+title: "Uno, dos, tres..."
+layout: "post"
+date: "2010-11-09 23:58:00"
+categories: 
+author: jotadrilo
+---
+
+<div class="css-full-post-content js-full-post-content">
+Hoy me toca escribir en plata, sobre un fondo negro. Cuento cada coma, y cuenta cada punto.<br />Hoy negro es mi teclado, el fondo de escritorio, el blog, el cielo, mi alma... <br />Plata son las letras de las teclas, un brillo en el fondo, mi esclava, las estrellas, y mis recuerdos...<br /><br />Mis dedos se paran, y mis recuerdos salen a corretear. Empieza el juego:<br /><br />[...]<br /><br />Al pollito inglés, un recuerdo se dispara, vuela hasta la pared, y lo veo cara a cara. Se queda quieto, intenta disimular... no puede, ya me ha calado, y lo siento, pero está eliminado.<br /><br /><span style="font-style:italic;">-Un, dos, tres, pollito inglés!</span> <br />Cuatro más al acecho, dos posando, dos tirandose por el suelo. Carcajadas y cinco palabras:<br /><span style="font-style:italic;">-Un, dos, tres, pollito inglés!</span> <br />Ahí vienen en avalancha, se estampan en mi cara, penetran en mis ojos, y no hay ganador, hay cuatro momentos clavados en la pared.<br /><br />Al escondite, elegir un dedo y una parte del brazo: Contar hasta cien, y lento.<br /><span style="font-style:italic;">-Uno, dos, tres...</span> <br />¡Todos corriendo!<br />Uno detrás de la cortina, dos detrás de una puerta, tres de bajo de una mesa, cuatro corriendo escaleras arriba. Hay quien se esconde en una ventana y hay quien se tapa con una capa esperando el "<span style="font-style:italic;">ya voyyyy!</span>"<br /><br />[...]<br /><br />Esconderse, quedarse quieto. Eso es lo que hacen mis recuerdos cuando hablamos de esto, sienten nostalgia, quieren jugar conmigo y hacen que los busque. Primero miro detrás de la cortina, y veo a uno que se asusta y sale corriendo. Oigo risas tras la puerta y salen por su cuenta. Los de debajo de la mesa no hay quien los vea, pero tampoco hay quien los calle... Y como todo lo que sube baja... los que subieron las escalera, la bajan de nuevo.<br /><br />Tantos recuerdos escondidos, quietos, esperando a ser buscados. Y lo mejor de todo es que he encontrado tres cosas: Un deseo, dos son-risas y tres... <br /><br />...puntos seguidos. <br />Os dije que contaban.
+</div>

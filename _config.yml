@@ -1,0 +1,22 @@
+# Site settings
+title: VBUF
+email: josriolop@gmail.com
+description: Vida bajo un flexo, no solo sólo.
+baseurl: "/vbuf"
+url: ""
+# url: "https://jotadrilo.github.io"
+# url: "http://localhost:4000"
+twitter_username: jotadrilo
+github_username:  jotadrilo
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docker
+  - README.md

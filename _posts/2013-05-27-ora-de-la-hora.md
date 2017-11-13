@@ -1,0 +1,11 @@
+---
+title: "Ora de la hora"
+layout: "post"
+date: "2013-05-27 22:03:00"
+categories: 
+author: jotadrilo
+---
+
+<div class="css-full-post-content js-full-post-content">
+Vamos a hablar de esos días en los que parece que no sale el sol.<br /><br />Hora de abrir la puerta de la cama, corredera, de tela calentita y acogedora, llena del cariño de un sueño, y de dos, y de tres y cuatro y cinco, cinco minutos más que quedarme con ellos antes de que te borres de este sitio que tan bonito hemos dejado.<br /><br />Hora de salir, al asco de mundo que estamos tejiendo a base de mierda. Mierda en pedestales hechos de oro, haciendo un juego de tronos delante de nuestros ojos; y no en las calles, ni en la pobreza. Apestan las manos corruptas, no las manos llenas de indiferencia y discriminación. Apestan los bolsillos llenos de dinero, no los que están llenos de agujeros y trozos de pan duro. Apestan las chaquetas hechas con el dinero que se le cayó al del agujero porque el de la chaqueta se lo rompió a base de bonitas palabras convertidas en palos.<br /><br />Hora de sonreír al mundo, y de ser fuerte apoyándome en intentarlo y conseguirlo. De tejer líneas curvas en tu cara a base de mirarte y decirte que uno no está solo si has conseguido que alguien sonría gracias a ti. Las sonrisas regaladas no se olvidan, son como prestar tus ganas o dar tu suerte, gestos preciosos llenos de ti que quitan mierda del mundo y crean eso que se llama amistad.<br /><br />Hora de volver y afrontar los hechos, de sopesar por un momento y darse cuenta que las penas pesan más que los ratos buenos del día. Qué verdad. La diferencia está en tu forma de ver las cosas, porque siempre habrá algo que te quite la vida, pero es eso mismo lo que te hace posible diferenciar las mil cosas buenas que han pasado en tu vida. El ladrido de tu perro al quitarle un juguete, el escondite improvisado de tu gato al asustarle por detrás, las riñas de una madre por hacerte ver las cosas, las peleas con la gente que quieres por quererlas, el dolor de despedirte. Sóplale a tus problemas y mira lo que se esconde debajo. No hay blanco sin negro, ni sonrisas sin lágrimas, y de pensarlo solo me queda reír.<br /><br />Hora de cerrar la puerta de la cama,<br />voy a hablar con ella de esas noches en las que parece que no se va el sol,<br />y apareces tú,<br />en sueños.
+</div>
