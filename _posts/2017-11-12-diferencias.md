@@ -2,12 +2,12 @@
 title: "Diferencias"
 layout: "post"
 date: "2017-11-12 23:54:12"
-categories: 
+categories:
 author: jotadrilo
 ---
 
-> - Muy bien -intervino Ben cuando yo no lo esperaba- De modo que estos dos drabines -cogió un par y me los acercó para que los examinara- podrían proceder de la misma barra, no?
-> - Bueno, seguramente los fundieron por separado... -me callé al var la severa mirada de Ben-. Sí, claro -Entonces, todavia hay algo que los conecta, no? -Volvió a transpasarme con la mirada.
+> Muy bien -intervino Ben cuando yo no lo esperaba- De modo que estos dos drabines -cogió un par y me los acercó para que los examinara- podrían proceder de la misma barra, no?
+> Bueno, seguramente los fundieron por separado... -me callé al var la severa mirada de Ben-. Sí, claro -Entonces, todavia hay algo que los conecta, no? -Volvió a transpasarme con la mirada.
 
 
 Y es que hay tanta hipocresía en lo que decimos, cuando un "vete" significa "no te vayas", y cuando un "adiós" quería decir "me matas".
