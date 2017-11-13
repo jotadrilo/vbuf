@@ -7,6 +7,7 @@ author: jotadrilo
 ---
 
 > Muy bien -intervino Ben cuando yo no lo esperaba- De modo que estos dos drabines -cogió un par y me los acercó para que los examinara- podrían proceder de la misma barra, no?
+>
 > Bueno, seguramente los fundieron por separado... -me callé al var la severa mirada de Ben-. Sí, claro -Entonces, todavia hay algo que los conecta, no? -Volvió a transpasarme con la mirada.
 
 
