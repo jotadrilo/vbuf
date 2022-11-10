@@ -7,6 +7,7 @@ rvm:
 install:
   - gem install html-proofer
 script:
+  - cd blog
   - bundle install --path vendor/bundle
   - bundle exec jekyll build
   - ln -sf . _site/vbuf
@@ -27,11 +28,13 @@ env:
 
 before_deploy:
   - rm -rf docker vendor README.md .travis.yml .bundle .gitignore .sass-cache
+  - mv blog/* .
+  - rm -rf blog
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  email: jdrios@gmail.com
+  email: josriolop@gmail.com
   name: travis-bot
   target_branch: gh-pages
   on:
