@@ -1,13 +1,6 @@
-FROM ruby:3.1 as vendor
+FROM vbuf:bundle as vendor
 
-RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
-    apt-get install -y --no-install-recommends nodejs && \
-    rm -r /var/lib/apt/lists /var/cache/apt/archives
-
-WORKDIR /blog
 COPY blog/Gemfile blog/Gemfile.lock /blog/
-
-ENV BUNDLE_PATH=/vendor/bundle
 RUN bundle install
 
 FROM ruby:3.1
