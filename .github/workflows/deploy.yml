@@ -18,8 +18,7 @@ jobs:
         uses: actions/checkout@v3
       -
         name: Install and Build 🔧
-        run: |
-          ./scripts/dist.sh -s blog -d dist
+        run: ./scripts/dist.sh -s blog -d dist
       -
         name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
