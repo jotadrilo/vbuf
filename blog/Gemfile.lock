@@ -1,3 +1,11 @@
+PATH
+  remote: .
+  specs:
+    minima (2.5.1)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -47,10 +55,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.0)
@@ -68,16 +72,11 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
-  jekyll (= 4.3.1)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-  tzinfo-data
-
-RUBY VERSION
-   ruby 3.1.2p20
+  bundler (>= 1.15)
+  minima!
 
 BUNDLED WITH
    2.3.7

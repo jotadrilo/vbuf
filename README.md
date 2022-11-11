@@ -5,6 +5,8 @@ VBUF blog based on [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pag
 ## Update
 
 ```
+./scripts/build.sh
+# Or update Gemfile only
 ./scripts/lock.sh
 ```
 

@@ -3,7 +3,6 @@ set -eo pipefail
 
 readonly root=$(realpath "$(git rev-parse --show-toplevel || echo .)")
 
-local=false
 trace=false
 incremental=false
 
@@ -12,7 +11,6 @@ help() {
   echo "Usage: $0 [Options]"
   echo ""
   echo "Options:"
-  echo "  -l | --local  Use local blog (default: $local)"
   echo "  -h | --help   Show this help page."
   echo ""
   echo "Jekyll Options:"
@@ -24,10 +22,6 @@ help() {
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
-  -l | --local)
-    shift
-    local=true
-    ;;
   --trace)
     shift
     trace=true
@@ -51,8 +45,7 @@ jekyll_args=("serve" "--host" "0.0.0.0")
 if [[ "$trace" == "true" ]]; then jekyll_args+=("--trace"); fi
 if [[ "$incremental" == "true" ]]; then jekyll_args+=("--incremental"); fi
 
-docker_args=()
-if [[ "$local" == "true" ]]; then docker_args+=("-v" "${root}/blog:/blog"); fi
+docker_args=(-v "${root}/vendor:/vendor" -v "${root}/blog:/blog")
 
 if [[ "$trace" == "true" ]]; then set -x; fi
 
