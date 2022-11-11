@@ -1,19 +1,28 @@
-# Site settings
 title: VBUF
+author: jotadrilo
 email: josriolop@gmail.com
-description: Vida bajo un flexo, no solo sólo.
-baseurl: "/vbuf"
-url: ""
-# url: "https://jotadrilo.github.io"
-# url: "http://localhost:4000"
+description: >
+  Vida bajo un flexo, es solo eso.
+
 twitter_username: jotadrilo
 github_username:  jotadrilo
+instagram_username: jotadrilo
+
+show_excerpts: false
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
 
 # Build settings
-markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
